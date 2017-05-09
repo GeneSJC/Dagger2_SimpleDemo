@@ -1,6 +1,6 @@
 # Dagger2_SimpleDemo
 
-This is a super basic demo.  
+This is a bare-bones basic demo.  
 The only way to verify is to look at the log output; 
 specifically for this message (in Android Monitor): 
 `Motor rpm = 990`
@@ -32,3 +32,5 @@ Main points:
     }
 
 ```
+
+6. `Vehicle.java` is not actually being used in the demo.  It is included to demonstrate one more thing you can do here.  If you have doubts, just remove associated reference and the class itself.
