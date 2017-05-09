@@ -4,7 +4,7 @@ This is a bare-bones basic demo, based on this tutorial:
 
 https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-android--cms-23345
 
-_(Thanks TutsPlus !)_
+_Thanks TutsPlus !_
 
 # How to Verify
 
