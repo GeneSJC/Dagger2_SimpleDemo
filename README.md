@@ -1,9 +1,15 @@
 # Dagger2_SimpleDemo
 
-This is a bare-bones basic demo.  
+This is a bare-bones basic demo, based on this tutorial: 
+https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-android--cms-23345
+
+_(Thanks TutsPlus !)_
+
+# How to Verify
+
 The only way to verify is to look at the log output; 
 
-specifically for this message (in Android Monitor): 
+specifically verify this message is appearing in the Android Monitor log: 
 
 `Motor rpm = 990`
 
