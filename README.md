@@ -2,7 +2,9 @@
 
 This is a bare-bones basic demo.  
 The only way to verify is to look at the log output; 
+
 specifically for this message (in Android Monitor): 
+
 `Motor rpm = 990`
 
 This shows that the `@Inject` is working, because `Motor.java` has the `rpm` instance member hard-coded to `990`.  Change that value to verify the setup here is working correctly.
